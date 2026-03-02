@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kilnerton-preview/static/css/main.06637ea5.css",
+    "main.js": "/Kilnerton-preview/static/js/main.3e987210.js",
+    "index.html": "/Kilnerton-preview/index.html",
+    "main.06637ea5.css.map": "/Kilnerton-preview/static/css/main.06637ea5.css.map",
+    "main.3e987210.js.map": "/Kilnerton-preview/static/js/main.3e987210.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06637ea5.css",
+    "static/js/main.3e987210.js"
+  ]
+}
